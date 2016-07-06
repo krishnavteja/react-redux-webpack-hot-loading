@@ -1,12 +1,12 @@
-# React Redux Webpack TODO Sample App with Hot loading
+### React Redux Webpack TODO Sample App with Hot loading
 
-## Installation
+##### Installation
 
 ```
 npm install
 ```
 
-## How to run
+##### How to run
 
 ```
 npm run serve
