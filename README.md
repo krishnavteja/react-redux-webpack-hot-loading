@@ -1,2 +1,15 @@
-# react-redux-webpack-hot-loading
-Sample TODO application using React with Redux, Webpack and Webpack hot loading middleware
+# React Redux Webpack TODO Sample App with Hot loading
+
+## Installation
+
+```
+npm install
+```
+
+## How to run
+
+```
+npm run serve
+```
+
+This will build the bundle and setup hot loading.
